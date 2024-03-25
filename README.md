@@ -1,7 +1,9 @@
 # python-written-exam
 世游笔试：Selenium实现外汇牌价查询、括号匹配算法
 
+
 PS：
+  
   网页抓取题目主调函数为manager.py
   
   爬虫定义函数位于spiderTools.py
